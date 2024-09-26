@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redience-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/redience-dashboard/static/js/main.8892011e.js",
+    "index.html": "/redience-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/redience-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.8892011e.js.map": "/redience-dashboard/static/js/main.8892011e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8892011e.js"
+  ]
+}
