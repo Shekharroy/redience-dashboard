@@ -20,13 +20,13 @@ Steps When you cloning these repo how to setup the projects
 
 ====================================
 
-create-react-app: https://create-react-app.dev/
-material ui: https://mui.com/material-ui/getting-s...
-nivo charts: https://nivo.rocks/components
-full calendar: https://fullcalendar.io/docs
-formik: https://formik.org/docs/overview#inst...
-yup validation: https://github.com/jquense/yup
-react pro sidebar: https://github.com/azouaoui-med/react...
-google fonts: https://fonts.google.com/
+1. create-react-app: https://create-react-app.dev/
+2. material ui: https://mui.com/material-ui/getting-s...
+3. nivo charts: https://nivo.rocks/components
+4. full calendar: https://fullcalendar.io/docs
+5. formik: https://formik.org/docs/overview#inst...
+6. yup validation: https://github.com/jquense/yup
+7. react pro sidebar: https://github.com/azouaoui-med/react...
+8. google fonts: https://fonts.google.com/
 
 ======================================
